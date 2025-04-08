@@ -532,7 +532,7 @@ body.modal-open {
     width: 100%;
     padding: 8px;
     border: 1px solid #ddd;
-    border-radius: 4px;
+    border-radius: 10px;
 }
 
 .payment-options {
